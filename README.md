@@ -1,8 +1,6 @@
 # Spotify-Dashboard
 
 ## Overview
-What started as a simple scroll through Spotify turned into one of my most exciting Power BI projects to date. 🎧📊
-
 This dashboard combines Spotify’s signature style with powerful data analysis to create a visually engaging and insightful experience. The design was crafted in PowerPoint for a sleek, app-like feel, while the backend leverages advanced DAX measures and Bravo (from SQLBI) to enable deep time intelligence analysis.
 
 ## Features
